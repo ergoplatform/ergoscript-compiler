@@ -1,0 +1,14 @@
+{
+  "symbols":[
+    {
+      "name":"zero",
+      "type":"Long",
+      "value":"0"
+    },
+    {
+      "name":"dummyBoxId",
+      "type":"CollByte",
+      "value":"01a2b3c4d5e6"
+    }
+  ]
+}

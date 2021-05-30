@@ -1,0 +1,14 @@
+{
+  "symbols":[
+    {
+      "name":"poolTokenId",
+      "type":"CollByte",
+      "value":"0fb1eca4646950743bc5a8c341c16871a0ad9b4077e3b276bf93855d51a042d1"
+    },
+    {
+      "name":"liveEpochScriptHash",
+      "type":"CollByte",
+      "value":"396b67b43d9436bb1f310050273f6f34b81beeca1ebea1f126486890d00a282c"
+    }
+  ]
+}

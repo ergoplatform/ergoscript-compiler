@@ -1,0 +1,24 @@
+{
+  "symbols":[
+    {
+      "name":"minStorageRent",
+      "type":"Long",
+      "value":"10000000"
+    },
+    {
+      "name":"minVotes",
+      "type":"Int",
+      "value":"6"
+    },
+    {
+      "name":"ballotTokenId",
+      "type":"CollByte",
+      "value":"dd26438230986cfe7305ad958451b69e55ad5ac37c8a355bfb08d810edd7a20f"
+    },
+    {
+      "name":"bankNFT",
+      "type":"CollByte",
+      "value":"7bd873b8a886daa7a8bfacdad11d36aeee36c248aaf5779bcd8d41a13e4c1604"
+    }
+  ]
+}
