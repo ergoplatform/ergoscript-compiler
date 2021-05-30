@@ -1,7 +1,5 @@
 # ErgoScript Compiler
 
-[![Build Status](https://www.travis-ci.com/scalahub/ErgoScriptCompiler.svg?branch=main)](https://www.travis-ci.com/scalahub/ErgoScriptCompiler)
-
 A CLI tool for compiling ErgoScript code to an Ergo address.
 
 ## How To Use
