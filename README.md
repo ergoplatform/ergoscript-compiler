@@ -25,6 +25,18 @@ A CLI tool for compiling ErgoScript code to an Ergo address.
 
 See the example below for a sample output.
 
+### Using in your own project
+
+Add the following to build.sbt
+
+```
+  resolvers += "SonaType Snapshots" at "https://s01.oss.sonatype.org/content/repositories/snapshots/",
+  libraryDependencies += "io.github.ergoplatform" %% "ergoscriptcompiler" % "0.1.0-SNAPSHOT"
+```
+
+Then use as: `util.Compiler.compile(ergoScriptFile: String,  symbolsFile: Option[String])`
+
+
 ## Example 
 
 The folder [src/test/resources](src/test/resources) contains sample ErgoScript and symbol files.
