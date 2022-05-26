@@ -18,7 +18,7 @@ ThisBuild / developers := List(
   )
 )
 
-ThisBuild / description := "Library for interfacing with Ergo dApps"
+ThisBuild / description := "Standalone tool for compiling ErgoScript to ErgoTree and Address"
 ThisBuild / licenses := List("The Unlicense" -> new URL("https://unlicense.org/"))
 ThisBuild / homepage := Some(url("https://github.com/ergoplatform/ergoscript-compiler"))
 
