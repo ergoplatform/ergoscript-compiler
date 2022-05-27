@@ -30,8 +30,7 @@ See the example below for a sample output.
 Add the following to build.sbt
 
 ```
-  resolvers += "SonaType Snapshots" at "https://s01.oss.sonatype.org/content/repositories/snapshots/",
-  libraryDependencies += "io.github.ergoplatform" %% "ergoscriptcompiler" % "0.1.0-SNAPSHOT"
+libraryDependencies += "io.github.ergoplatform" %% "ergoscriptcompiler" % "1.0"
 ```
 
 Then use as: `util.Compiler.compile(ergoScriptFile: String,  symbolsFile: Option[String])`
